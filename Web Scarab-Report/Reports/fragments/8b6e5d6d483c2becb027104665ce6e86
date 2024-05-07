@@ -1,0 +1,3 @@
+<script>
+	objHoverDiv = document.getElementById('id-hover-div');
+</script>

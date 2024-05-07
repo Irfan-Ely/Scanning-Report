@@ -1,0 +1,16 @@
+<script type="text/javascript">
+// <![CDATA[
+function PMA_focusInput()
+{
+    var input_username = document.getElementById('input_username');
+    var input_password = document.getElementById('input_password');
+    if (input_username.value == '') {
+        input_username.focus();
+    } else {
+        input_password.focus();
+    }
+}
+
+window.setTimeout('PMA_focusInput()', 500);
+// ]]>
+</script>

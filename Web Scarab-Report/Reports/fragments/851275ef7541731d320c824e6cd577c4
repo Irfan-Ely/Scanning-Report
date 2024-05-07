@@ -1,0 +1,18 @@
+<script type="text/javascript">
+		var onLoadOfBody = function(theBody){
+			var l_securityLevel = '1';
+						var l_hintsStatus = 'Disabled (0 - I try harder)';
+			
+			switch(l_securityLevel){
+				case "0": var l_securityLevelDescription = 'Hosed'; break;
+				case "1": var l_securityLevelDescription = 'Arrogent'; break;
+				case "2": var l_securityLevelDescription = '2'; break;
+				case "3": var l_securityLevelDescription = '3'; break;
+				case "4": var l_securityLevelDescription = '4'; break;
+				case "5": var l_securityLevelDescription = 'Secure'; break; 
+			}// end switch
+			//document.getElementById("idSystemInformationHeading").innerHTML = l_loginMessage;
+			document.getElementById("idHintsStatusHeading").innerHTML = 'Hints: ' + l_hintsStatus;
+			document.getElementById("idSecurityLevelHeading").innerHTML = 'Security Level: ' + l_securityLevel + ' (' + l_securityLevelDescription + ')';
+		}// end function onLoadOfBody()
+	</script>

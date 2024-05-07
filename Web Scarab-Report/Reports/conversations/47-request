@@ -1,0 +1,10 @@
+GET http://192.168.1.49:80/phpMyAdmin/themes/original/img/s_notice.png HTTP/1.1
+Host: 192.168.1.49
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.49/phpMyAdmin/phpmyadmin.css.php?lang=en-utf-8&convcharset=utf-8&token=492797f27e299bd979ca916d41839dd6&js_frame=right&nocache=2457687151
+Cookie: phpMyAdmin=3d09e88dceab98c8133a53b036c806386c8f998d; pma_lang=en-utf-8; pma_charset=utf-8; pma_theme=original; pma_fontsize=82%25; PHPSESSID=6b8a88398c287c2c841667d4f5bdc826
+

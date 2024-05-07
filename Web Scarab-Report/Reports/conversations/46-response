@@ -1,0 +1,103 @@
+HTTP/1.1 200 OK
+Date: Thu, 02 May 2024 20:04:19 GMT
+Server: Apache/2.2.8 (Ubuntu) DAV/2
+X-Powered-By: PHP/5.2.4-2ubuntu5.10
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: private, max-age=10800, pre-check=10800
+Set-Cookie: pma_fontsize=82%25; expires=Sat, 01-Jun-2024 20:04:19 GMT; path=/phpMyAdmin/; httponly
+Set-Cookie: pma_fontsize=82%25; expires=Sat, 01-Jun-2024 20:04:19 GMT; path=/phpMyAdmin/; httponly
+Set-Cookie: pma_collation_connection=deleted; expires=Wed, 03-May-2023 20:04:18 GMT; path=/phpMyAdmin/; httponly
+Set-Cookie: pma_theme=original; expires=Sat, 01-Jun-2024 20:04:19 GMT; path=/phpMyAdmin/; httponly
+Set-Cookie: pmaPass-1=deleted; expires=Wed, 03-May-2023 20:04:18 GMT; path=/phpMyAdmin/
+Last-Modified: Tue, 09 Dec 2008 17:24:00 GMT
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+d34
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="icon" href="./favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+    <title>phpMyAdmin </title>
+    <link rel="stylesheet" type="text/css" href="phpmyadmin.css.php?token=492797f27e299bd979ca916d41839dd6&amp;js_frame=right&amp;nocache=2457687151" />
+    <link rel="stylesheet" type="text/css" href="print.css" media="print" />
+    <meta name="robots" content="noindex,nofollow" />
+<script type="text/javascript">
+//<![CDATA[
+// show login form in top frame
+if (top != self) {
+    window.top.location.href=location;
+}
+//]]>
+</script>
+</head>
+
+<body class="loginform">
+
+    
+<div class="container">
+<a href="http://www.phpmyadmin.net" target="_blank" class="logo"><img src="./themes/original/img/logo_right.png" id="imLogo" name="imLogo" alt="phpMyAdmin" border="0" /></a>
+<h1>
+    Welcome to <bdo dir="ltr" xml:lang="en">phpMyAdmin </bdo></h1>
+    <div class="error">#1045 - Access denied for user 'admin'@'localhost' (using password: YES)</div>
+<form method="post" action="index.php" target="_parent">
+    <input type="hidden" name="db" value="" /><input type="hidden" name="table" value="" /><input type="hidden" name="token" value="492797f27e299bd979ca916d41839dd6" /><fieldset><legend xml:lang="en" dir="ltr">Language</legend>
+    <select name="lang" onchange="this.form.submit();" xml:lang="en" dir="ltr">
+            <option value="en-utf-8" selected="selected">English</option>
+
+    </select>
+    </fieldset>
+    <noscript>
+    <fieldset class="tblFooters">
+        <input type="submit" value="Go" />
+    </fieldset>
+    </noscript>
+</form>
+    <br />
+<!-- Login form -->
+<form method="post" action="index.php" name="login_form" autocomplete="off" target="_top" class="login">
+    <fieldset>
+    <legend>
+Log in</legend>
+
+        <div class="item">
+            <label for="input_username">Username:</label>
+            <input type="text" name="pma_username" id="input_username" value="" size="24" class="textfield"/>
+        </div>
+        <div class="item">
+            <label for="input_password">Password:</label>
+            <input type="password" name="pma_password" id="input_password" value="" size="24" class="textfield" />
+        </div>
+        <input type="hidden" name="server" value="1" />    </fieldset>
+    <fieldset class="tblFooters">
+        <input value="Go" type="submit" id="input_go" />
+    <input type="hidden" name="token" value="492797f27e299bd979ca916d41839dd6" />    </fieldset>
+</form>
+
+    <div><div class="warning">Cannot load <a href="http://php.net/mcrypt" target="Documentation"><em>mcrypt</em></a> extension. Please check your PHP configuration.</div></div></div>
+<script type="text/javascript">
+// <![CDATA[
+function PMA_focusInput()
+{
+    var input_username = document.getElementById('input_username');
+    var input_password = document.getElementById('input_password');
+    if (input_username.value == '') {
+        input_username.focus();
+    } else {
+        input_password.focus();
+    }
+}
+
+window.setTimeout('PMA_focusInput()', 500);
+// ]]>
+</script>
+    </body>
+</html>
+    
+0
+

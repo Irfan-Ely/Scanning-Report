@@ -1,0 +1,7 @@
+<script>
+	try{
+		document.getElementById("idUsernameInput").innerHTML = "This password is for anonymous";
+	}catch(e){
+		alert("Error: " + e.message);
+	}// end catch
+</script>

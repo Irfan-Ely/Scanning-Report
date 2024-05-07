@@ -1,0 +1,2809 @@
+### URL : http://192.168.1.49:80/
+STATUS: 200 OK
+CHECKSUM: cfe398bfbf64d86085ba7db4d09d7705
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/ (null)
+
+### URL : http://192.168.1.49:80/dav/
+STATUS: 200 OK
+CHECKSUM: 7f23ff2c38e20cccb664e3e86142c864
+CHECKSUM: 2f799bd66c1cdd487cbc87583c1e2400
+CHECKSUM: ad2d311124e8bf4f20847eed6e64930c
+CHECKSUM: 5b0438a18e05338121207ec0191341c3
+CHECKSUM: b477b805ab157d3d32f8647b95f08b21
+REFERER: http://192.168.1.49:80/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dav/ (null) Cookie:PHPSESSID(STRING)
+SIGNATURE: GET http://192.168.1.49:80/dav/ (null) Query:C(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/dav/?C=D;O=A
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dav/
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dav/?C=D;O=D
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dav/?C=D;O=A
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dav/?C=M;O=A
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dav/
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dav/?C=M;O=D
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dav/?C=M;O=A
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dav/?C=N;O=A
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dav/?C=D;O=A
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dav/?C=N;O=D
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dav/
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dav/?C=S;O=A
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dav/
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dav/?C=S;O=D
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dav/?C=S;O=A
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dvwa/
+SET-COOKIE: PHPSESSID
+SET-COOKIE: security
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+REFERER: http://192.168.1.49:80/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/ (null)
+
+### URL : http://192.168.1.49:80/dvwa/?doc=PHPIDS-license
+REFERER: http://192.168.1.49:80/dvwa/instructions.php
+
+### URL : http://192.168.1.49:80/dvwa/?doc=changelog
+REFERER: http://192.168.1.49:80/dvwa/instructions.php
+
+### URL : http://192.168.1.49:80/dvwa/?doc=copying
+REFERER: http://192.168.1.49:80/dvwa/instructions.php
+
+### URL : http://192.168.1.49:80/dvwa/?doc=readme
+REFERER: http://192.168.1.49:80/dvwa/instructions.php
+
+### URL : http://192.168.1.49:80/dvwa/.
+STATUS: 200 OK
+CHECKSUM: f5ec2c6c705b91f451164cda28448f68
+REFERER: http://192.168.1.49:80/dvwa/index.php
+SCRIPTS: 08f5a5884d4fe17613a81b3c1fddd4b2
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/. (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/about.php
+STATUS: 200 OK
+CHECKSUM: 20771088a4f3b6475d4047e4a3122261
+REFERER: http://192.168.1.49:80/dvwa/index.php
+SCRIPTS: 08f5a5884d4fe17613a81b3c1fddd4b2
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/about.php (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/
+STATUS: 200 OK
+CHECKSUM: 32d34a4c653a0604610988c10c7f5072
+CHECKSUM: b066d35035cc8f309429d4b58fe3f747
+CHECKSUM: d21fd8e30bff5b7573caaff794b7ad11
+CHECKSUM: a9f63343221bf22c4b3891ef52c9ddf1
+CHECKSUM: 9dd32add655c3c45dc10ca74e62404e9
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/ (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/ (null) Query:C(STRING) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/?C=D;O=A
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dvwa/dvwa/
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/?C=D;O=D
+REFERER: http://192.168.1.49:80/dvwa/dvwa/?C=D;O=A
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/?C=M;O=A
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dvwa/dvwa/
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/?C=M;O=D
+REFERER: http://192.168.1.49:80/dvwa/dvwa/?C=M;O=A
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/?C=N;O=A
+REFERER: http://192.168.1.49:80/dvwa/dvwa/?C=D;O=A
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/?C=N;O=D
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dvwa/dvwa/
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/?C=S;O=A
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dvwa/dvwa/
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/?C=S;O=D
+REFERER: http://192.168.1.49:80/dvwa/dvwa/?C=S;O=A
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/css/
+STATUS: 200 OK
+CHECKSUM: d5a9ffbb0472186cc6aa20708e7096c0
+CHECKSUM: e55de3b416543ec2dbd7129716c8e126
+CHECKSUM: 3f516064ce53f75cf00c62431dea9eb1
+CHECKSUM: aa1c4e4a1a81b7506acde0ec8e5945d1
+CHECKSUM: b84d333cfc18a17d69a6a7c010dbdcb0
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/css/ (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/css/ (null) Query:C(STRING) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/css/?C=D;O=A
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dvwa/dvwa/css/
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/css/?C=D;O=D
+REFERER: http://192.168.1.49:80/dvwa/dvwa/css/?C=D;O=A
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/css/?C=M;O=A
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dvwa/dvwa/css/
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/css/?C=M;O=D
+REFERER: http://192.168.1.49:80/dvwa/dvwa/css/?C=M;O=A
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/css/?C=N;O=A
+REFERER: http://192.168.1.49:80/dvwa/dvwa/css/?C=D;O=A
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/css/?C=N;O=D
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dvwa/dvwa/css/
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/css/?C=S;O=A
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dvwa/dvwa/css/
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/css/?C=S;O=D
+REFERER: http://192.168.1.49:80/dvwa/dvwa/css/?C=S;O=A
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/css/help.css
+STATUS: 200 OK
+CHECKSUM: 121e4930d23dd790fb94c1cddfe7cd57
+REFERER: http://192.168.1.49:80/dvwa/dvwa/css/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/css/help.css (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/css/login.css
+STATUS: 200 OK
+CHECKSUM: 1833eb1805caeee141d09c3f2b2ba87d
+REFERER: http://192.168.1.49:80/dvwa/login.php
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/css/login.css (null) Cookie:security(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/css/main.css
+STATUS: 200 OK
+CHECKSUM: 50a8748dc4595edba0d5fe70b91125d4
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/css/main.css (null) Cookie:security(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/css/source.css
+STATUS: 200 OK
+CHECKSUM: 121e4930d23dd790fb94c1cddfe7cd57
+REFERER: http://192.168.1.49:80/dvwa/dvwa/css/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/css/source.css (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/images/
+STATUS: 200 OK
+CHECKSUM: d8e868c9c419dda8975bb7298df6ea63
+CHECKSUM: 59bbfd9c5d642b9973aede1b8be78a5e
+CHECKSUM: 0c06b4a60fa644255071f37c4873e4e2
+CHECKSUM: 7a2281e98c30bfaf67c55aca5eb90736
+CHECKSUM: 5817968e3554895ff4d7a16d2218b403
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/images/ (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/images/ (null) Query:C(STRING) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/images/?C=D;O=A
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dvwa/dvwa/images/
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/images/?C=D;O=D
+REFERER: http://192.168.1.49:80/dvwa/dvwa/images/?C=D;O=A
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/images/?C=M;O=A
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dvwa/dvwa/images/
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/images/?C=M;O=D
+REFERER: http://192.168.1.49:80/dvwa/dvwa/images/?C=M;O=A
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/images/?C=N;O=A
+REFERER: http://192.168.1.49:80/dvwa/dvwa/images/?C=D;O=A
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/images/?C=N;O=D
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dvwa/dvwa/images/
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/images/?C=S;O=A
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/dvwa/dvwa/images/
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/images/?C=S;O=D
+REFERER: http://192.168.1.49:80/dvwa/dvwa/images/?C=S;O=A
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/images/RandomStorm.png
+STATUS: 200 OK
+CHECKSUM: e9234e2ee90fd28e71217e032ebe43f6
+REFERER: http://192.168.1.49:80/dvwa/dvwa/images/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/images/RandomStorm.png (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/images/dollar.png
+STATUS: 200 OK
+CHECKSUM: b897176652b9e08088224edec862c543
+REFERER: http://192.168.1.49:80/dvwa/dvwa/images/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/images/dollar.png (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/images/lock.png
+STATUS: 200 OK
+CHECKSUM: 14ba5bd09be4db81070db94584db0926
+REFERER: http://192.168.1.49:80/dvwa/dvwa/images/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/images/lock.png (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/images/login_logo.png
+STATUS: 200 OK
+CHECKSUM: d1751b588a0127c8c6f25372d743ca59
+REFERER: http://192.168.1.49:80/dvwa/login.php
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/images/login_logo.png (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/images/logo.png
+STATUS: 200 OK
+CHECKSUM: ad9bf1623a126e8ec47d22715661a512
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/images/logo.png (null) Cookie:security(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/images/spanner.png
+STATUS: 200 OK
+CHECKSUM: 443d7f26fbb36d6519bb95b928bdb500
+REFERER: http://192.168.1.49:80/dvwa/dvwa/images/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/images/spanner.png (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/images/warning.png
+STATUS: 200 OK
+CHECKSUM: f9924cd76b1c7d12311db380dfbb6df4
+REFERER: http://192.168.1.49:80/dvwa/dvwa/images/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/images/warning.png (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/includes/
+STATUS: 200 OK
+CHECKSUM: f3598453e4e7acae36ef25bcea4c435e
+REFERER: http://192.168.1.49:80/dvwa/dvwa/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/includes/ (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/includes/?C=D;O=A
+REFERER: http://192.168.1.49:80/dvwa/dvwa/includes/
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/includes/?C=M;O=A
+REFERER: http://192.168.1.49:80/dvwa/dvwa/includes/
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/includes/?C=N;O=D
+REFERER: http://192.168.1.49:80/dvwa/dvwa/includes/
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/includes/?C=S;O=A
+REFERER: http://192.168.1.49:80/dvwa/dvwa/includes/
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/includes/DBMS/
+REFERER: http://192.168.1.49:80/dvwa/dvwa/includes/
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/includes/dvwaPage.inc.php
+REFERER: http://192.168.1.49:80/dvwa/dvwa/includes/
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/includes/dvwaPhpIds.inc.php
+REFERER: http://192.168.1.49:80/dvwa/dvwa/includes/
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/js/
+STATUS: 200 OK
+CHECKSUM: 13baea343d762414de5ff17acc4f9adb
+REFERER: http://192.168.1.49:80/dvwa/dvwa/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/js/ (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/js/?C=D;O=A
+REFERER: http://192.168.1.49:80/dvwa/dvwa/js/
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/js/?C=M;O=A
+REFERER: http://192.168.1.49:80/dvwa/dvwa/js/
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/js/?C=N;O=D
+REFERER: http://192.168.1.49:80/dvwa/dvwa/js/
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/js/?C=S;O=A
+REFERER: http://192.168.1.49:80/dvwa/dvwa/js/
+
+### URL : http://192.168.1.49:80/dvwa/dvwa/js/dvwaPage.js
+STATUS: 200 OK
+CHECKSUM: 493fd3bfc79a3e435539726e2321999a
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/dvwa/js/dvwaPage.js (null) Cookie:security(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/favicon.ico
+STATUS: 200 OK
+CHECKSUM: 69c728902a3f1df75cf9eac73bd55556
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/favicon.ico (null) Cookie:security(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/index.php
+STATUS: 200 OK
+CHECKSUM: f1540543d3b0dc93e1bcf4908b73a5ee
+SCRIPTS: 08f5a5884d4fe17613a81b3c1fddd4b2
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/index.php (null) Cookie:security(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/instructions.php
+STATUS: 200 OK
+CHECKSUM: c9ade82a219868482677726bc0b74b20
+REFERER: http://192.168.1.49:80/dvwa/index.php
+SCRIPTS: 08f5a5884d4fe17613a81b3c1fddd4b2
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/instructions.php (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/instructions.php?doc=PHPIDS-license
+REFERER: http://192.168.1.49:80/dvwa/about.php
+
+### URL : http://192.168.1.49:80/dvwa/login.php
+FORMS: d299c766477e88233845a944dd819469
+CRLF-POST: Login
+STATUS: 200 OK
+STATUS: 302 Found
+CHECKSUM: 3d12fb99ca66d132647cd04549a1f85e
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+CHECKSUM: 2c81c71db4e63e6176fccd921d34dae1
+REFERER: http://192.168.1.49:80/dvwa/
+COMMENTS: 826377946c3a3c04139d38a254d821b8
+COMMENTS: 0cbd2628eb5869df34a81dc80729a2f6
+METHODS: GET
+METHODS: POST
+SIGNATURE: GET http://192.168.1.49:80/dvwa/login.php (null) Cookie:security(STRING) Cookie:PHPSESSID(STRING)
+SIGNATURE: POST http://192.168.1.49:80/dvwa/login.php (application/x-www-form-urlencoded) Cookie:security(STRING) Cookie:PHPSESSID(STRING) Body:username(STRING) Body:password(STRING) Body:Login(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/logout.php
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+REFERER: http://192.168.1.49:80/dvwa/index.php
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/logout.php (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/phpinfo.php
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+REFERER: http://192.168.1.49:80/dvwa/index.php
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/phpinfo.php (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/security.php
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+REFERER: http://192.168.1.49:80/dvwa/index.php
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/security.php (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/setup.php
+FORMS: 4d9291a40e84bf613df3886c22a13764
+STATUS: 200 OK
+CHECKSUM: 22b0951b0fde646a55bfd527b15ef01a
+REFERER: http://192.168.1.49:80/dvwa/index.php
+SCRIPTS: 08f5a5884d4fe17613a81b3c1fddd4b2
+COMMENTS: c050667ce8f163bc290a83ba90809e5c
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/setup.php (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/
+STATUS: 200 OK
+CHECKSUM: ccfcabc080f1f7e8c4a471e38c3ca4cc
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/ (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/?C=D;O=A
+REFERER: http://192.168.1.49:80/dvwa/vulnerabilities/
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/?C=M;O=A
+REFERER: http://192.168.1.49:80/dvwa/vulnerabilities/
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/?C=N;O=D
+REFERER: http://192.168.1.49:80/dvwa/vulnerabilities/
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/?C=S;O=A
+REFERER: http://192.168.1.49:80/dvwa/vulnerabilities/
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/brute/
+FORMS: a3ccdd5243b9a49b82d2ce75a4d5a7a5
+STATUS: 200 OK
+CHECKSUM: ab0c9929d1ef26bb4f2e98d318737752
+CHECKSUM: 410a0dbe08642d41657c76cd6d9842f8
+SCRIPTS: 4741c39c9fa25a8be4e638a3985bd0bc
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/brute/ (null) Cookie:security(STRING) Cookie:PHPSESSID(STRING)
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/brute/ (null) Query:username(STRING) Query:password(STRING) Query:Login(STRING) Cookie:security(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/brute/?username=username&password=passowrd&Login=Login
+FORMS: a3ccdd5243b9a49b82d2ce75a4d5a7a5
+STATUS: 200 OK
+SCRIPTS: 4741c39c9fa25a8be4e638a3985bd0bc
+XSS-GET: username
+XSS-GET: Login
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/brute/.
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+REFERER: http://192.168.1.49:80/dvwa/index.php
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/brute/. (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/csrf/
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/csrf/ (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/csrf/.
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+REFERER: http://192.168.1.49:80/dvwa/index.php
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/csrf/. (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/exec/
+FORMS: 4d9291a40e84bf613df3886c22a13764
+STATUS: 200 OK
+CHECKSUM: eea64cc61213c1460f9740bc7fd133e5
+CHECKSUM: 223a6f9fb9d154bdaf6f61de1642d171
+SCRIPTS: 4741c39c9fa25a8be4e638a3985bd0bc
+XSS-POST: ip
+XSS-POST: submit
+METHODS: GET
+METHODS: POST
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/exec/ (null) Cookie:security(STRING) Cookie:PHPSESSID(STRING)
+SIGNATURE: POST http://192.168.1.49:80/dvwa/vulnerabilities/exec/ (application/x-www-form-urlencoded) Cookie:security(STRING) Cookie:PHPSESSID(STRING) Body:ip(STRING) Body:submit(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/exec/.
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+REFERER: http://192.168.1.49:80/dvwa/index.php
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/exec/. (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/fi/
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/fi/ (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/fi/.
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/fi/. (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/fi/. (null) Query:page(STRING) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/fi/.?page=include.php
+STATUS: 302 Found
+REFERER: http://192.168.1.49:80/dvwa/index.php
+METHODS: GET
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/sqli/
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/sqli/ (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/sqli/.
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+REFERER: http://192.168.1.49:80/dvwa/index.php
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/sqli/. (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/sqli_blind/
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/sqli_blind/ (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/sqli_blind/.
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+REFERER: http://192.168.1.49:80/dvwa/index.php
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/sqli_blind/. (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/upload/
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/upload/ (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/upload/.
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+REFERER: http://192.168.1.49:80/dvwa/index.php
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/upload/. (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/view_help.php
+REFERER: http://192.168.1.49:80/dvwa/vulnerabilities/
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/view_source.php
+REFERER: http://192.168.1.49:80/dvwa/vulnerabilities/
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/view_source_all.php
+REFERER: http://192.168.1.49:80/dvwa/vulnerabilities/
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/xss_r/
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/xss_r/ (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/xss_r/.
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+REFERER: http://192.168.1.49:80/dvwa/index.php
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/xss_r/. (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/xss_s/
+FORMS: 1835fb8459356840cbe917081a6e4730
+STATUS: 200 OK
+CHECKSUM: 39f428d54cfc248f5a4b73bcf98c20c9
+SCRIPTS: 4741c39c9fa25a8be4e638a3985bd0bc
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/xss_s/ (null) Cookie:security(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/dvwa/vulnerabilities/xss_s/.
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+REFERER: http://192.168.1.49:80/dvwa/index.php
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/dvwa/vulnerabilities/xss_s/. (null) Cookie:PHPSESSID(STRING) Cookie:security(STRING)
+
+### URL : http://192.168.1.49:80/favicon.ico
+STATUS: 404 Not Found
+CHECKSUM: f02d99ffc440b6de47e82e9f69f16926
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/favicon.ico (null)
+
+### URL : http://192.168.1.49:80/icons/
+STATUS: 200 OK
+CHECKSUM: d51e55782bd0255b260e00db4e39cbe5
+CHECKSUM: 2e21cc7c6869193b864a14de524eba91
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/icons/ (null) Cookie:PHPSESSID(STRING)
+SIGNATURE: GET http://192.168.1.49:80/icons/ (null) Query:C(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/icons/?C=D;O=A
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/icons/
+METHODS: GET
+
+### URL : http://192.168.1.49:80/icons/?C=D;O=D
+REFERER: http://192.168.1.49:80/icons/?C=D;O=A
+
+### URL : http://192.168.1.49:80/icons/?C=M;O=A
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/?C=N;O=A
+REFERER: http://192.168.1.49:80/icons/?C=D;O=A
+
+### URL : http://192.168.1.49:80/icons/?C=N;O=D
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/?C=S;O=A
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/README
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/README.html
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/a.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/a.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/alert.black.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/alert.black.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/alert.red.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/alert.red.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/apache_pb.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/apache_pb.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/apache_pb2.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/apache_pb2.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/apache_pb2_ani.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/back.gif
+STATUS: 200 OK
+CHECKSUM: 4bce9846e05d3bffdfb293d47c840a8e
+REFERER: http://192.168.1.49:80/dav/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/icons/back.gif (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/icons/back.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/ball.gray.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/ball.gray.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/ball.red.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/ball.red.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/binary.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/binary.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/binhex.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/binhex.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/blank.gif
+STATUS: 200 OK
+CHECKSUM: 19517fb39a31be6b8d7ccf53ad84908f
+REFERER: http://192.168.1.49:80/dav/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/icons/blank.gif (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/icons/blank.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/bomb.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/bomb.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/box1.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/box1.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/box2.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/box2.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/broken.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/broken.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/burst.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/burst.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/c.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/c.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/comp.blue.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/comp.blue.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/comp.gray.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/comp.gray.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/compressed.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/compressed.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/continued.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/continued.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/dir.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/dir.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/diskimg.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/diskimg.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/down.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/down.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/dvi.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/dvi.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/f.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/f.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/folder.gif
+REFERER: http://192.168.1.49:80/dvwa/dvwa/
+
+### URL : http://192.168.1.49:80/icons/folder.open.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/folder.open.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/folder.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/folder.sec.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/folder.sec.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/forward.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/forward.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/generic.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/generic.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/generic.red.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/generic.red.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/generic.sec.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/generic.sec.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/hand.right.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/hand.right.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/hand.up.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/hand.up.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/icon.sheet.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/icon.sheet.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/image1.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/image1.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/image2.gif
+REFERER: http://192.168.1.49:80/dvwa/dvwa/images/
+
+### URL : http://192.168.1.49:80/icons/image2.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/image3.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/image3.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/index.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/index.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/layout.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/layout.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/left.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/left.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/link.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/link.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/movie.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/movie.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/odf6odb-20x22.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/odf6odc-20x22.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/odf6odf-20x22.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/odf6odg-20x22.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/odf6odi-20x22.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/odf6odm-20x22.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/odf6odp-20x22.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/odf6ods-20x22.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/odf6odt-20x22.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/odf6otc-20x22.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/odf6otf-20x22.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/odf6otg-20x22.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/odf6oth-20x22.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/odf6oti-20x22.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/odf6otp-20x22.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/odf6ots-20x22.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/odf6ott-20x22.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/p.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/p.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/patch.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/patch.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pdf.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pdf.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie0.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie0.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie1.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie1.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie2.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie2.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie3.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie3.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie4.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie4.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie5.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie5.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie6.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie6.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie7.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie7.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie8.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/pie8.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/portal.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/portal.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/ps.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/ps.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/quill.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/quill.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/right.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/right.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/screw1.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/screw1.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/screw2.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/screw2.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/script.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/script.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/back.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/back.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/binary.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/binary.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/binhex.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/binhex.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/blank.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/blank.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/broken.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/broken.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/burst.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/burst.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/comp1.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/comp1.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/comp2.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/comp2.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/compressed.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/compressed.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/continued.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/continued.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/doc.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/doc.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/folder.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/folder.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/folder2.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/folder2.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/forward.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/forward.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/generic.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/generic.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/generic2.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/generic2.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/generic3.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/generic3.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/image.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/image.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/image2.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/image2.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/index.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/index.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/key.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/key.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/movie.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/movie.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/patch.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/patch.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/ps.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/ps.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/sound.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/sound.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/sound2.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/sound2.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/tar.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/tar.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/text.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/text.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/transfer.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/transfer.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/unknown.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/unknown.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/uu.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/small/uu.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/sound1.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/sound1.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/sound2.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/sound2.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/sphere1.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/sphere1.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/sphere2.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/sphere2.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/tar.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/tar.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/tex.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/tex.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/text.gif
+REFERER: http://192.168.1.49:80/dvwa/dvwa/css/
+
+### URL : http://192.168.1.49:80/icons/text.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/transfer.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/transfer.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/unknown.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/unknown.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/up.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/up.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/uu.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/uu.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/uuencoded.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/uuencoded.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/world1.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/world1.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/world2.gif
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/icons/world2.png
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://192.168.1.49:80/mutillidae/
+SET-COOKIE: PHPSESSID
+STATUS: 200 OK
+CHECKSUM: 623470911c1d7301706bda5e06497c78
+CHECKSUM: 28ce6f883b191052f104c080ce4a2ccf
+CHECKSUM: 27ea9cff30bef3ba5b5a16cda9cb1e1e
+CHECKSUM: 50c89274d503b3eada64515369245bf8
+CHECKSUM: a0be7c2070f39f9bcc406494a5d5012a
+CHECKSUM: 88c6f6ddceb848c02afcb2fd6568ad1c
+CHECKSUM: 4d8b0f736e8357ae6647c5461bb3acbb
+CHECKSUM: 726e5d70d8fae6d4ec224fd3470ebb76
+CHECKSUM: 3f3d165093fd34773fdfde99f3338911
+REFERER: http://192.168.1.49:80/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 99fa25d5389c8ec856d2c96078bb81c5
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/ (null)
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/ (null) Query:page(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/?page=add-to-your-blog.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 99fa25d5389c8ec856d2c96078bb81c5
+SCRIPTS: 5da6f59b571a1e22394d31e8f8a6e910
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: c5aac63d4a9a21f8c05b940a8137ba07
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/?page=credits.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 99fa25d5389c8ec856d2c96078bb81c5
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/?page=login.php
+FORMS: 089bdd36fed6d8dc70f5527e002c69ad
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 99fa25d5389c8ec856d2c96078bb81c5
+SCRIPTS: 7b8a0765bfdfeded32ca276ebd71a950
+SCRIPTS: dc129eec5c40e1fab6cfd99704dcd16c
+SCRIPTS: 252ea81007f1eeeaef7f5ba48a9cb50b
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/?page=register.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=user-info.php&username=name&password=password&user-info-php-submit-button=View+Account+Details
+
+### URL : http://192.168.1.49:80/mutillidae/?page=show-log.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 99fa25d5389c8ec856d2c96078bb81c5
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/?page=source-viewer.php
+FORMS: 467179fd269ad7a0fa6fd5523e01ac3e
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+HIDDENFIELD: bd1b254b93b89276eece93a99ae429d1
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 99fa25d5389c8ec856d2c96078bb81c5
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/?page=text-file-viewer.php
+FORMS: 06e466111263f2211b26883972ee6efe
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 99fa25d5389c8ec856d2c96078bb81c5
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/?page=user-info.php
+FORMS: 478ea0ab168651d4893eb364199687ad
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+HIDDENFIELD: d687ac0e22cd92e18fda99c8b9bec0d2
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 99fa25d5389c8ec856d2c96078bb81c5
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/?page=view-someones-blog.php
+FORMS: 6f26172aa8af2922365a5d3260bb8a18
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 99fa25d5389c8ec856d2c96078bb81c5
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/documentation/
+STATUS: 200 OK
+CHECKSUM: 1bd996e9a6fc0f84ff15eb45aec06fbc
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/documentation/ (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/documentation/?C=D;O=A
+REFERER: http://192.168.1.49:80/mutillidae/documentation/
+
+### URL : http://192.168.1.49:80/mutillidae/documentation/?C=M;O=A
+REFERER: http://192.168.1.49:80/mutillidae/documentation/
+
+### URL : http://192.168.1.49:80/mutillidae/documentation/?C=N;O=D
+REFERER: http://192.168.1.49:80/mutillidae/documentation/
+
+### URL : http://192.168.1.49:80/mutillidae/documentation/?C=S;O=A
+REFERER: http://192.168.1.49:80/mutillidae/documentation/
+
+### URL : http://192.168.1.49:80/mutillidae/documentation/Mutillidae-Test-Scripts.txt
+REFERER: http://192.168.1.49:80/mutillidae/documentation/
+
+### URL : http://192.168.1.49:80/mutillidae/documentation/how-to-access-Mutillidae-over-Virtual-Box-network.php
+REFERER: http://192.168.1.49:80/mutillidae/documentation/
+
+### URL : http://192.168.1.49:80/mutillidae/documentation/mutillidae-installation-on-xampp-win7.pdf
+STATUS: 200 OK
+CHECKSUM: 51d6de06948903e89f6425c4f6ca1b62
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/documentation/mutillidae-installation-on-xampp-win7.pdf (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/documentation/sqlmap-help.txt
+REFERER: http://192.168.1.49:80/mutillidae/documentation/
+
+### URL : http://192.168.1.49:80/mutillidae/documentation/vulnerabilities.php
+REFERER: http://192.168.1.49:80/mutillidae/documentation/
+
+### URL : http://192.168.1.49:80/mutillidae/favicon.ico
+STATUS: 200 OK
+CHECKSUM: ca06e7ae326aa73fa24726bf61c6818a
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/favicon.ico (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/framer.html
+STATUS: 200 OK
+CHECKSUM: e5decaa894bd0a123b64276ab55e64b8
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/framer.html (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/images/
+STATUS: 200 OK
+CHECKSUM: de701bd06e47fa5f46001e4525965ecd
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/images/ (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/images/?C=D;O=A
+REFERER: http://192.168.1.49:80/mutillidae/images/
+
+### URL : http://192.168.1.49:80/mutillidae/images/?C=M;O=A
+REFERER: http://192.168.1.49:80/mutillidae/images/
+
+### URL : http://192.168.1.49:80/mutillidae/images/?C=N;O=D
+REFERER: http://192.168.1.49:80/mutillidae/images/
+
+### URL : http://192.168.1.49:80/mutillidae/images/?C=S;O=A
+REFERER: http://192.168.1.49:80/mutillidae/images/
+
+### URL : http://192.168.1.49:80/mutillidae/images/IhackBanner2x_final_print.jpg
+STATUS: 200 OK
+CHECKSUM: c0553e7d99c34aa8835e9800a5acca6d
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/images/IhackBanner2x_final_print.jpg (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/images/add_icon.png
+REFERER: http://192.168.1.49:80/mutillidae/?page=view-someones-blog.php
+
+### URL : http://192.168.1.49:80/mutillidae/images/back-button-128px-by-128px.png
+STATUS: 200 OK
+CHECKSUM: d5f3ecc47adfdf998c93dc0976dc5392
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/images/back-button-128px-by-128px.png (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/images/backtrack-4-r2-logo-90-69.png
+STATUS: 200 OK
+CHECKSUM: d1e4c8e467ec8c64e9ca6ec14906a1b1
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/images/backtrack-4-r2-logo-90-69.png (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/images/bui_eclipse_pos_logo_fc_med.jpg
+STATUS: 200 OK
+CHECKSUM: 0a0def33f7538257a10b0fd8e3a105c3
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/images/bui_eclipse_pos_logo_fc_med.jpg (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/images/coykillericon.png
+STATUS: 200 OK
+CHECKSUM: 1e4aa4189fa5797e6fbb39b57f7e20b1
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/images/coykillericon.png (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/images/coykillericonfaceup.png
+REFERER: http://192.168.1.49:80/mutillidae/images/
+
+### URL : http://192.168.1.49:80/mutillidae/images/delete-icon-256-256.png
+REFERER: http://192.168.1.49:80/mutillidae/images/
+
+### URL : http://192.168.1.49:80/mutillidae/images/down.gif
+REFERER: http://192.168.1.49:80/mutillidae/images/
+
+### URL : http://192.168.1.49:80/mutillidae/images/firefox-logo-500-500.jpeg
+REFERER: http://192.168.1.49:80/mutillidae/images/
+
+### URL : http://192.168.1.49:80/mutillidae/images/hfc-header.png
+REFERER: http://192.168.1.49:80/mutillidae/images/
+
+### URL : http://192.168.1.49:80/mutillidae/images/information-icon-64-64.png
+REFERER: http://192.168.1.49:80/mutillidae/images/
+
+### URL : http://192.168.1.49:80/mutillidae/images/irongeek-logo.png
+REFERER: http://192.168.1.49:80/mutillidae/images/
+
+### URL : http://192.168.1.49:80/mutillidae/images/magnifying-glass-icon.jpeg
+REFERER: http://192.168.1.49:80/mutillidae/images/
+
+### URL : http://192.168.1.49:80/mutillidae/images/owasp-logo-240-240.jpeg
+REFERER: http://192.168.1.49:80/mutillidae/images/
+
+### URL : http://192.168.1.49:80/mutillidae/images/owasp-logo-400-300.png
+STATUS: 200 OK
+CHECKSUM: 833a34cd4068adee4926131b97fc6e0b
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/images/owasp-logo-400-300.png (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/images/php-mysql-logo-176-200.jpeg
+STATUS: 200 OK
+CHECKSUM: d1155df5e0eee6f547e888fdc016e809
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/images/php-mysql-logo-176-200.jpeg (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/images/refresh-button-48px-by-48px.png
+REFERER: http://192.168.1.49:80/mutillidae/images/
+
+### URL : http://192.168.1.49:80/mutillidae/images/rene-magritte-frame.jpg
+REFERER: http://192.168.1.49:80/mutillidae/images/
+
+### URL : http://192.168.1.49:80/mutillidae/images/right.gif
+STATUS: 200 OK
+CHECKSUM: c98e1180b8e0cf64d77a6095c0a5cb3d
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/images/right.gif (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/images/samurai-wtf-logo-320-214.jpeg
+STATUS: 200 OK
+CHECKSUM: 0803ed7d04e484d7a20606d69ecb4545
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/images/samurai-wtf-logo-320-214.jpeg (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/images/toad-for-mysql-77-80.jpg
+STATUS: 200 OK
+CHECKSUM: d410fcc04ba098f3fc2146dcb5aac4b3
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/images/toad-for-mysql-77-80.jpg (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/images/toad-logo-216-222.jpeg
+REFERER: http://192.168.1.49:80/mutillidae/images/
+
+### URL : http://192.168.1.49:80/mutillidae/images/twitter.gif
+STATUS: 200 OK
+CHECKSUM: 63e4fe6649997ffc54078b751877ed12
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/images/twitter.gif (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/images/youtube_256_256.png
+STATUS: 200 OK
+CHECKSUM: f1c4b729fb8ad8dd6c9854b64b3cf6d5
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/images/youtube_256_256.png (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/index.php
+CHECKSUM: 9f3cca4cbc8523d3dab865f3909a8df8
+CHECKSUM: b7e7ad9807845c8ae2362800e4e3e1fd
+CHECKSUM: e23fb13ae14abc6660cd154ada86e72c
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+CHECKSUM: 11b496d6e0336c9707675759a8d1c3e7
+CHECKSUM: 2fe99e9dc82bfe042e502219644d0296
+CHECKSUM: 16e35393e3b73c01fedcc33996be6832
+CHECKSUM: 8e8473d7f05cf974569e16f05962ada0
+CHECKSUM: f7f1469937b7877e7f45b40d5196fb6d
+CHECKSUM: 76489c466ceabf0c9dd3f5612fc864e3
+CHECKSUM: 8fa887d9939691228dd9f866a8a9f00a
+CHECKSUM: 8e8e8f01a4d35682dd6bf6b9b020f2f9
+CHECKSUM: 0ba4b74319caf8b23a95b8cbc487988a
+CHECKSUM: 2415b0f314fca0fd5f1331179e972589
+CHECKSUM: 0e8a26bacc2fa6ab8cfe4bb901e8aab6
+CHECKSUM: 47fc0170d51ae2d773eb823be99d8aa9
+CHECKSUM: 33329ec585f8862beb5d603081501897
+CHECKSUM: 7a26c8877ca5f36cb024b34d3be6a06f
+CHECKSUM: 5dd03b0fe320ebfecfc54dc768a54b7d
+CHECKSUM: 655526fc3cda5a1971cd3c367a656bf4
+CHECKSUM: 4ad555c40b39ffa05b23545545162ed4
+CHECKSUM: aef88a2b0f11c27f4e122d2cda1c0283
+CHECKSUM: a44b2801daa7f6df138c2be61bd4cdd3
+CHECKSUM: 8309cc4fc25f88e79b0ce0587142bc7d
+CHECKSUM: 83fe3c9b3c72130273df07f61b78f067
+CHECKSUM: 1a092a2b030edcfa6a74fedbd7b9cb1e
+CHECKSUM: cc869417a5f5591e531589272dbaea76
+CHECKSUM: 80bbc06e49cc32310aab9c457f1d48dc
+CHECKSUM: a8ac76cce1a4db291a8cc8f79b16d1c5
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 99fa25d5389c8ec856d2c96078bb81c5
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/index.php (null) Query:page(STRING) Query:username(STRING) Query:password(STRING) Query:user-info-php-submit-button(STRING) Cookie:PHPSESSID(STRING)
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/index.php (null) Query:page(STRING) Cookie:PHPSESSID(STRING)
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/index.php (null) Cookie:PHPSESSID(STRING)
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/index.php (null) Query:do(STRING) Query:page(STRING) Cookie:PHPSESSID(STRING)
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/index.php (null) Query:page(STRING) Cookie:PHPSESSID(STRING) Cookie:showhints(STRING)
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/index.php (null) Query:page(STRING) Query:username(STRING) Cookie:PHPSESSID(STRING) Cookie:showhints(STRING)
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-hints&page=add-to-your-blog.php
+REFERER: http://192.168.1.49:80/mutillidae/?page=add-to-your-blog.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-hints&page=credits.php
+REFERER: http://192.168.1.49:80/mutillidae/?page=credits.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-hints&page=home.php
+SET-COOKIE: showhints
+STATUS: 302 Found
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+CRLF-GET: page
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-hints&page=login.php
+REFERER: http://192.168.1.49:80/mutillidae/?page=login.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-hints&page=show-log.php
+REFERER: http://192.168.1.49:80/mutillidae/?page=show-log.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-hints&page=source-viewer.php
+REFERER: http://192.168.1.49:80/mutillidae/?page=source-viewer.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-hints&page=text-file-viewer.php
+REFERER: http://192.168.1.49:80/mutillidae/?page=text-file-viewer.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-hints&page=user-info.php
+SET-COOKIE: showhints
+STATUS: 302 Found
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=user-info.php&username=name&password=password&user-info-php-submit-button=View+Account+Details
+METHODS: GET
+CRLF-GET: page
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-hints&page=view-someones-blog.php
+REFERER: http://192.168.1.49:80/mutillidae/?page=view-someones-blog.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=add-to-your-blog.php
+REFERER: http://192.168.1.49:80/mutillidae/?page=add-to-your-blog.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=arbitrary-file-inclusion.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=arbitrary-file-inclusion.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=browser-info.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=browser-info.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=capture-data.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=capture-data.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=captured-data.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=captured-data.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=change-log.htm
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=change-log.htm
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=credits.php
+REFERER: http://192.168.1.49:80/mutillidae/?page=credits.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=dns-lookup.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=dns-lookup.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=documentation/how-to-access-Mutillidae-over-Virtual-Box-network.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=documentation/how-to-access-Mutillidae-over-Virtual-Box-network.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=documentation/vulnerabilities.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=documentation/vulnerabilities.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=framing.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=framing.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=home.php
+STATUS: 302 Found
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+CRLF-GET: page
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=html5-storage.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=html5-storage.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=installation.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=installation.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=login.php
+REFERER: http://192.168.1.49:80/mutillidae/?page=login.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=notes.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=notes.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=password-generator.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=password-generator.php&username=anonymous
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=pen-test-tool-lookup.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=pen-test-tool-lookup.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=php-errors.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=php-errors.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=register.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=register.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=secret-administrative-pages.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=secret-administrative-pages.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=set-background-color.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=set-background-color.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=show-log.php
+REFERER: http://192.168.1.49:80/mutillidae/?page=show-log.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=site-footer-xss-discussion.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=site-footer-xss-discussion.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=source-viewer.php
+REFERER: http://192.168.1.49:80/mutillidae/?page=source-viewer.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=text-file-viewer.php
+REFERER: http://192.168.1.49:80/mutillidae/?page=text-file-viewer.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=user-info.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=user-info.php&username=name&password=password&user-info-php-submit-button=View+Account+Details
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?do=toggle-security&page=view-someones-blog.php
+REFERER: http://192.168.1.49:80/mutillidae/?page=view-someones-blog.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=add-to-your-blog.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 851275ef7541731d320c824e6cd577c4
+SCRIPTS: c9e1fdbecdcf54518b2499fef5177abf
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: c5aac63d4a9a21f8c05b940a8137ba07
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=arbitrary-file-inclusion.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 851275ef7541731d320c824e6cd577c4
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=browser-info.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 851275ef7541731d320c824e6cd577c4
+SCRIPTS: 9e029c297f73f7ad63e4b18ea82fb518
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=capture-data.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 851275ef7541731d320c824e6cd577c4
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: c5aac63d4a9a21f8c05b940a8137ba07
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=captured-data.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 851275ef7541731d320c824e6cd577c4
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: c5aac63d4a9a21f8c05b940a8137ba07
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=change-log.htm
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 851275ef7541731d320c824e6cd577c4
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=credits.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 851275ef7541731d320c824e6cd577c4
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=dns-lookup.php
+FORMS: bf1366312728c44400193c5190deb125
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 851275ef7541731d320c824e6cd577c4
+SCRIPTS: e6fde2032cab2c16aa8cfc4c7a9ab434
+SCRIPTS: a1cf6e098218c9c93645ca26e191ce8e
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: c5aac63d4a9a21f8c05b940a8137ba07
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=documentation/how-to-access-Mutillidae-over-Virtual-Box-network.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 1d66b67598da68ee648888c660598393
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=documentation/vulnerabilities.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 1d66b67598da68ee648888c660598393
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=framing.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 1d66b67598da68ee648888c660598393
+SCRIPTS: 857573d9e0a38b1119be7e3165ec7fbd
+SCRIPTS: 8b6e5d6d483c2becb027104665ce6e86
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=home.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 1d66b67598da68ee648888c660598393
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=html5-storage.php
+FORMS: 3c4613b394a39e82de23e7601e941329
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 1d66b67598da68ee648888c660598393
+SCRIPTS: d69b5e07c56615a13f9d7ceb3aa3a740
+SCRIPTS: 88a91d2980193317220dfc04a2b2f5fa
+SCRIPTS: 23552e581d9a27888e1b860ad2f19935
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: c5aac63d4a9a21f8c05b940a8137ba07
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=installation.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 1d66b67598da68ee648888c660598393
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=login.php
+FORMS: 089bdd36fed6d8dc70f5527e002c69ad
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 1d66b67598da68ee648888c660598393
+SCRIPTS: 7ab7bb24c80754512f975ac1986eca94
+SCRIPTS: dc129eec5c40e1fab6cfd99704dcd16c
+SCRIPTS: 252ea81007f1eeeaef7f5ba48a9cb50b
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=notes.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 1d66b67598da68ee648888c660598393
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=password-generator.php&username=anonymous
+FORMS: 9a8cd288a71b7bc9b96a516a4f278907
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 1d66b67598da68ee648888c660598393
+SCRIPTS: 16b5e5498f0463dcd02e15e5df024e68
+SCRIPTS: 47a57e229cadb30ce98a5608b12bb419
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+XSS-GET: username
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=pen-test-tool-lookup.php
+FORMS: e562f654a47f69d4703718ce77087455
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 1d66b67598da68ee648888c660598393
+SCRIPTS: 9a52268b8bca7356ace43f86b66e9905
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: c5aac63d4a9a21f8c05b940a8137ba07
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=php-errors.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 1d66b67598da68ee648888c660598393
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=redirectandlog.php&forwardurl=http://pauldotcom.com/
+REFERER: http://192.168.1.49:80/mutillidae/?page=credits.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=redirectandlog.php&forwardurl=http://www.irongeek.com/
+REFERER: http://192.168.1.49:80/mutillidae/?page=credits.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=redirectandlog.php&forwardurl=http://www.isd-podcast.com/
+REFERER: http://192.168.1.49:80/mutillidae/?page=credits.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=redirectandlog.php&forwardurl=http://www.issa-kentuckiana.org/
+REFERER: http://192.168.1.49:80/mutillidae/?page=credits.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=redirectandlog.php&forwardurl=http://www.owasp.org
+REFERER: http://192.168.1.49:80/mutillidae/?page=credits.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=redirectandlog.php&forwardurl=http://www.owasp.org/index.php/Louisville
+REFERER: http://192.168.1.49:80/mutillidae/?page=credits.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=redirectandlog.php&forwardurl=http://www.php.net/
+REFERER: http://192.168.1.49:80/mutillidae/?page=credits.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=redirectandlog.php&forwardurl=http://www.pocodoy.com/blog/
+REFERER: http://192.168.1.49:80/mutillidae/?page=credits.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=redirectandlog.php&forwardurl=http://www.room362.com/
+REFERER: http://192.168.1.49:80/mutillidae/?page=credits.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=redirectandlog.php&forwardurl=https://addons.mozilla.org/en-US/firefox/collections/jdruin/pr/
+REFERER: http://192.168.1.49:80/mutillidae/?page=credits.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=register.php
+FORMS: 85cf43f344af5063922082c6636827ce
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 1d66b67598da68ee648888c660598393
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=rene-magritte.php
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=framing.php
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=secret-administrative-pages.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 1d66b67598da68ee648888c660598393
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=set-background-color.php
+FORMS: 4aef2dd64bbb7c9af035d2721652c6f8
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 1d66b67598da68ee648888c660598393
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=show-log.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 1d66b67598da68ee648888c660598393
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=site-footer-xss-discussion.php
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 1d66b67598da68ee648888c660598393
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=source-viewer.php
+FORMS: 467179fd269ad7a0fa6fd5523e01ac3e
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+HIDDENFIELD: bd1b254b93b89276eece93a99ae429d1
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 1d66b67598da68ee648888c660598393
+SCRIPTS: 8711f145683e7f5ed9ff578745321f16
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=text-file-viewer.php
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=usage-instructions.php
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=user-info.php
+FORMS: 478ea0ab168651d4893eb364199687ad
+STATUS: 200 OK
+REFERER: http://192.168.1.49:80/mutillidae/
+HIDDENFIELD: d687ac0e22cd92e18fda99c8b9bec0d2
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 99fa25d5389c8ec856d2c96078bb81c5
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=user-info.php&username=name&password=password&user-info-php-submit-button=View+Account+Details
+FORMS: 478ea0ab168651d4893eb364199687ad
+STATUS: 200 OK
+HIDDENFIELD: d687ac0e22cd92e18fda99c8b9bec0d2
+SCRIPTS: a9598cb6469787bcc80504857353bfc3
+SCRIPTS: 4f3f267e6ce0cde4317e9df157f1ea5b
+SCRIPTS: 35c2a9de4fe88119de51a44c8e187906
+SCRIPTS: 92e53b22b373518a267591feb8d969b8
+SCRIPTS: 99fa25d5389c8ec856d2c96078bb81c5
+SCRIPTS: bb222bbadcc67fc0b04d34d18ae48fce
+COMMENTS: e301774cf422a8c4255bdfab426c575e
+COMMENTS: ebce5cdf431da334c87adf619b7b20b4
+COMMENTS: 1286e7b3c710ffd95497e4ade8233579
+XSS-GET: page
+XSS-GET: username
+XSS-GET: password
+METHODS: GET
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=user-poll.php
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://192.168.1.49:80/mutillidae/index.php?page=view-someones-blog.php
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://192.168.1.49:80/mutillidae/javascript/
+
+### URL : http://192.168.1.49:80/mutillidae/javascript/bookmark-site.js
+DOMXSS: b001b6002e6e03e4eb089b3cc2c49f9b
+STATUS: 200 OK
+CHECKSUM: 454d36b9b56fd5ef87ec43f65806389d
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/javascript/bookmark-site.js (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/javascript/ddsmoothmenu/
+
+### URL : http://192.168.1.49:80/mutillidae/javascript/ddsmoothmenu/ddsmoothmenu.js
+STATUS: 200 OK
+CHECKSUM: 6abbbf340fb906344f0a7a7990961132
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/javascript/ddsmoothmenu/ddsmoothmenu.js (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/javascript/ddsmoothmenu/jquery.min.js
+STATUS: 200 OK
+CHECKSUM: bb381e2d19d8eace86b34d20759491a5
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/javascript/ddsmoothmenu/jquery.min.js (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/javascript/follow-mouse.js
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=framing.php
+
+### URL : http://192.168.1.49:80/mutillidae/javascript/html5-secrets.js
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=html5-storage.php
+
+### URL : http://192.168.1.49:80/mutillidae/set-up-database.php
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://192.168.1.49:80/mutillidae/styles/
+
+### URL : http://192.168.1.49:80/mutillidae/styles/ddsmoothmenu/
+
+### URL : http://192.168.1.49:80/mutillidae/styles/ddsmoothmenu/ddsmoothmenu-v.css
+STATUS: 200 OK
+CHECKSUM: 0b7dbdf06d1f10bb1d6f28c4ad3af300
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/styles/ddsmoothmenu/ddsmoothmenu-v.css (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/styles/ddsmoothmenu/ddsmoothmenu.css
+STATUS: 200 OK
+CHECKSUM: 1c43be7d4dafa102db558fcd5dff4ce9
+REFERER: http://192.168.1.49:80/mutillidae/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/mutillidae/styles/ddsmoothmenu/ddsmoothmenu.css (null) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/mutillidae/styles/global-styles.css
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://192.168.1.49:80/phpMyAdmin/
+FORMS: 040df8e28c4bfeda6b967d94e7fa0e7d
+SET-COOKIE: phpMyAdmin
+SET-COOKIE: pma_lang
+SET-COOKIE: pma_charset
+SET-COOKIE: pma_collation_connection
+SET-COOKIE: pma_theme
+STATUS: 200 OK
+CHECKSUM: 2b1f96eb45320f6ce686a4aa49818f23
+REFERER: http://192.168.1.49:80/
+HIDDENFIELD: c3e065093132a8af078edc5628767b5f
+HIDDENFIELD: e808248d960f53587f5236f57110733e
+HIDDENFIELD: 60afea082e7bb7cbd0cb25bc90722af2
+HIDDENFIELD: e737e8298e35650acbc5ab58360e07c0
+HIDDENFIELD: 517b73fc17a9d0202526f27edfc65dea
+HIDDENFIELD: 9aab23c7cd29fc86a2d4602c51f533c3
+HIDDENFIELD: e37f4dc747e033ae86c1e36e4dae9269
+SCRIPTS: 398bbf837ae7a34f76e47e9b542fe304
+SCRIPTS: 2d0d8086882218d2f918b9ad978ed2c7
+COMMENTS: be8969b579d91a57f1f7e1d048ef1dbd
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/phpMyAdmin/ (null)
+
+### URL : http://192.168.1.49:80/phpMyAdmin/favicon.ico
+STATUS: 200 OK
+CHECKSUM: d037ef2f629a22ddadcf438e6be7a325
+REFERER: http://192.168.1.49:80/phpMyAdmin/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/phpMyAdmin/favicon.ico (null) Cookie:phpMyAdmin(STRING) Cookie:pma_lang(STRING) Cookie:pma_charset(STRING) Cookie:pma_theme(STRING) Cookie:pma_fontsize(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/phpMyAdmin/index.php
+SET-COOKIE: pma_fontsize
+SET-COOKIE: pma_collation_connection
+SET-COOKIE: pma_theme
+SET-COOKIE: pmaUser-1
+SET-COOKIE: pmaPass-1
+CRLF-POST: pma_username
+CRLF-POST: token
+STATUS: 302 Found
+CHECKSUM: d41d8cd98f00b204e9800998ecf8427e
+CHECKSUM: ca34fa7fe98ef125930c579485b336c4
+METHODS: POST
+SIGNATURE: POST http://192.168.1.49:80/phpMyAdmin/index.php (application/x-www-form-urlencoded) Cookie:phpMyAdmin(STRING) Cookie:pma_lang(STRING) Cookie:pma_charset(STRING) Cookie:pma_theme(STRING) Cookie:pma_fontsize(STRING) Cookie:PHPSESSID(STRING) Body:phpMyAdmin(STRING) Body:phpMyAdmin(STRING) Body:pma_username(STRING) Body:pma_password(STRING) Body:server(STRING) Body:phpMyAdmin(STRING) Body:lang(STRING) Body:convcharset(STRING) Body:token(STRING)
+SIGNATURE: GET http://192.168.1.49:80/phpMyAdmin/index.php (null) Query:token(STRING) Cookie:phpMyAdmin(STRING) Cookie:pma_lang(STRING) Cookie:pma_charset(STRING) Cookie:pmaUser-1(STRING) Cookie:pmaPass-1(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/phpMyAdmin/index.php?token=492797f27e299bd979ca916d41839dd6
+FORMS: 040df8e28c4bfeda6b967d94e7fa0e7d
+SET-COOKIE: pma_fontsize
+SET-COOKIE: pma_collation_connection
+SET-COOKIE: pma_theme
+SET-COOKIE: pmaPass-1
+STATUS: 200 OK
+HIDDENFIELD: e808248d960f53587f5236f57110733e
+HIDDENFIELD: 60afea082e7bb7cbd0cb25bc90722af2
+HIDDENFIELD: 9aab23c7cd29fc86a2d4602c51f533c3
+HIDDENFIELD: e37f4dc747e033ae86c1e36e4dae9269
+SCRIPTS: 398bbf837ae7a34f76e47e9b542fe304
+SCRIPTS: 2d0d8086882218d2f918b9ad978ed2c7
+COMMENTS: be8969b579d91a57f1f7e1d048ef1dbd
+XSS-GET: token
+METHODS: GET
+
+### URL : http://192.168.1.49:80/phpMyAdmin/phpmyadmin.css.php
+CHECKSUM: 5a942e6d5fb81ffa865c5bbcf38a8aeb
+CHECKSUM: f89d86258d5e6afbb037084f0b86fa99
+SIGNATURE: GET http://192.168.1.49:80/phpMyAdmin/phpmyadmin.css.php (null) Query:lang(STRING) Query:convcharset(STRING) Query:token(STRING) Query:js_frame(STRING) Query:nocache(STRING) Cookie:phpMyAdmin(STRING) Cookie:pma_lang(STRING) Cookie:pma_charset(STRING) Cookie:pma_theme(STRING) Cookie:PHPSESSID(STRING)
+SIGNATURE: GET http://192.168.1.49:80/phpMyAdmin/phpmyadmin.css.php (null) Query:token(STRING) Query:js_frame(STRING) Query:nocache(STRING) Cookie:phpMyAdmin(STRING) Cookie:pma_lang(STRING) Cookie:pma_charset(STRING) Cookie:pmaUser-1(STRING) Cookie:pma_fontsize(STRING) Cookie:pma_theme(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/phpMyAdmin/phpmyadmin.css.php?lang=en-utf-8&amp;convcharset=utf-8&amp;token=492797f27e299bd979ca916d41839dd6&amp;js_frame=right&amp;nocache=2457687151
+REFERER: http://192.168.1.49:80/phpMyAdmin/
+
+### URL : http://192.168.1.49:80/phpMyAdmin/phpmyadmin.css.php?lang=en-utf-8&convcharset=utf-8&token=492797f27e299bd979ca916d41839dd6&js_frame=right&nocache=2457687151
+SET-COOKIE: pma_fontsize
+STATUS: 200 OK
+XSS-GET: js_frame
+METHODS: GET
+CRLF-GET: convcharset
+
+### URL : http://192.168.1.49:80/phpMyAdmin/phpmyadmin.css.php?token=492797f27e299bd979ca916d41839dd6&amp;js_frame=right&amp;nocache=2457687151
+REFERER: http://192.168.1.49:80/phpMyAdmin/index.php?token=492797f27e299bd979ca916d41839dd6
+
+### URL : http://192.168.1.49:80/phpMyAdmin/phpmyadmin.css.php?token=492797f27e299bd979ca916d41839dd6&js_frame=right&nocache=2457687151
+SET-COOKIE: pma_fontsize
+STATUS: 200 OK
+XSS-GET: js_frame
+METHODS: GET
+
+### URL : http://192.168.1.49:80/phpMyAdmin/print.css
+STATUS: 200 OK
+CHECKSUM: 2a5f1cd6bac028b6aae9c1869d9fb1cb
+REFERER: http://192.168.1.49:80/phpMyAdmin/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/phpMyAdmin/print.css (null) Cookie:phpMyAdmin(STRING) Cookie:pma_lang(STRING) Cookie:pma_charset(STRING) Cookie:pma_theme(STRING) Cookie:pma_fontsize(STRING) Cookie:PHPSESSID(STRING)
+SIGNATURE: GET http://192.168.1.49:80/phpMyAdmin/print.css (null) Cookie:phpMyAdmin(STRING) Cookie:pma_lang(STRING) Cookie:pma_charset(STRING) Cookie:pmaUser-1(STRING) Cookie:pma_theme(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/phpMyAdmin/themes/
+
+### URL : http://192.168.1.49:80/phpMyAdmin/themes/original/
+
+### URL : http://192.168.1.49:80/phpMyAdmin/themes/original/img/
+
+### URL : http://192.168.1.49:80/phpMyAdmin/themes/original/img/logo_right.png
+STATUS: 200 OK
+CHECKSUM: 3128fb922eaf4e2ef96e954d9684f29c
+REFERER: http://192.168.1.49:80/phpMyAdmin/
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/phpMyAdmin/themes/original/img/logo_right.png (null) Cookie:phpMyAdmin(STRING) Cookie:pma_lang(STRING) Cookie:pma_charset(STRING) Cookie:pma_theme(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/phpMyAdmin/themes/original/img/s_error.png
+STATUS: 200 OK
+CHECKSUM: fa97ada9e3eb1ba919deb626910952ef
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/phpMyAdmin/themes/original/img/s_error.png (null) Cookie:phpMyAdmin(STRING) Cookie:pma_lang(STRING) Cookie:pma_charset(STRING) Cookie:pmaUser-1(STRING) Cookie:pma_theme(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/phpMyAdmin/themes/original/img/s_notice.png
+STATUS: 200 OK
+CHECKSUM: 73893f640111f28efe2967f250c19775
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/phpMyAdmin/themes/original/img/s_notice.png (null) Cookie:phpMyAdmin(STRING) Cookie:pma_lang(STRING) Cookie:pma_charset(STRING) Cookie:pma_theme(STRING) Cookie:pma_fontsize(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/phpMyAdmin/themes/original/img/s_warn.png
+STATUS: 200 OK
+CHECKSUM: bd30eaf6f72a8939c127a35c3dd6c522
+METHODS: GET
+SIGNATURE: GET http://192.168.1.49:80/phpMyAdmin/themes/original/img/s_warn.png (null) Cookie:phpMyAdmin(STRING) Cookie:pma_lang(STRING) Cookie:pma_charset(STRING) Cookie:pma_theme(STRING) Cookie:pma_fontsize(STRING) Cookie:PHPSESSID(STRING)
+
+### URL : http://192.168.1.49:80/twiki/
+REFERER: http://192.168.1.49:80/
+
+### URL : http://Irongeek.com:80/
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=notes.php
+
+### URL : http://en.wikipedia.org:80/
+
+### URL : http://en.wikipedia.org:80/wiki/
+
+### URL : http://en.wikipedia.org:80/wiki/Robots_exclusion_standard
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://ha.ckers.org:80/
+
+### URL : http://ha.ckers.org:80/xss.html
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=register.php
+
+### URL : http://hiderefer.com:80/
+
+### URL : http://hiderefer.com:80/?http://127.0.0.1/dvwa/index.php
+REFERER: http://192.168.1.49:80/dvwa/instructions.php
+
+### URL : http://hiderefer.com:80/?http://dvwa.svn.sourceforge.net/svnroot/dvwa
+REFERER: http://192.168.1.49:80/dvwa/about.php
+
+### URL : http://hiderefer.com:80/?http://en.wikipedia.org/wiki/Cross-site_scripting
+REFERER: http://192.168.1.49:80/dvwa/vulnerabilities/xss_s/
+
+### URL : http://hiderefer.com:80/?http://ha.ckers.org/xss.html
+REFERER: http://192.168.1.49:80/dvwa/vulnerabilities/xss_s/
+
+### URL : http://hiderefer.com:80/?http://php-ids.org/
+REFERER: http://192.168.1.49:80/dvwa/about.php
+
+### URL : http://hiderefer.com:80/?http://sourceforge.net/projects/dvwa/
+REFERER: http://192.168.1.49:80/dvwa/instructions.php
+
+### URL : http://hiderefer.com:80/?http://tedi.heriyanto.net/
+REFERER: http://192.168.1.49:80/dvwa/about.php
+
+### URL : http://hiderefer.com:80/?http://www.apachefriends.org/en/xampp.html
+REFERER: http://192.168.1.49:80/dvwa/index.php
+
+### URL : http://hiderefer.com:80/?http://www.cgisecurity.com/xss-faq.html
+REFERER: http://192.168.1.49:80/dvwa/vulnerabilities/xss_s/
+
+### URL : http://hiderefer.com:80/?http://www.creativenucleus.com/
+REFERER: http://192.168.1.49:80/dvwa/about.php
+
+### URL : http://hiderefer.com:80/?http://www.designnewcastle.co.uk/
+REFERER: http://192.168.1.49:80/dvwa/about.php
+
+### URL : http://hiderefer.com:80/?http://www.dvwa.co.uk
+REFERER: http://192.168.1.49:80/dvwa/instructions.php
+
+### URL : http://hiderefer.com:80/?http://www.dvwa.co.uk/
+REFERER: http://192.168.1.49:80/dvwa/about.php
+
+### URL : http://hiderefer.com:80/?http://www.dvwa.co.uk/forum
+REFERER: http://192.168.1.49:80/dvwa/about.php
+
+### URL : http://hiderefer.com:80/?http://www.dvwa.co.uk/forum/viewtopic.php?f=5
+REFERER: http://192.168.1.49:80/dvwa/instructions.php
+
+### URL : http://hiderefer.com:80/?http://www.ethicalhack3r.co.uk/
+REFERER: http://192.168.1.49:80/dvwa/about.php
+
+### URL : http://hiderefer.com:80/?http://www.gnu.org/licenses/.
+REFERER: http://192.168.1.49:80/dvwa/instructions.php
+
+### URL : http://hiderefer.com:80/?http://www.linux-ninja.com/
+REFERER: http://192.168.1.49:80/dvwa/about.php
+
+### URL : http://hiderefer.com:80/?http://www.owasp.org/index.php/Testing_for_Brute_Force_%28OWASP-AT-004%29
+REFERER: http://192.168.1.49:80/dvwa/vulnerabilities/brute/
+
+### URL : http://hiderefer.com:80/?http://www.randomstorm.com/
+REFERER: http://192.168.1.49:80/dvwa/about.php
+
+### URL : http://hiderefer.com:80/?http://www.scribd.com/doc/2530476/Php-Endangers-Remote-Code-Execution
+REFERER: http://192.168.1.49:80/dvwa/vulnerabilities/exec/
+
+### URL : http://hiderefer.com:80/?http://www.securityfocus.com/infocus/1192
+REFERER: http://192.168.1.49:80/dvwa/vulnerabilities/brute/
+
+### URL : http://hiderefer.com:80/?http://www.sillychicken.co.nz/Security/how-to-brute-force-http-forms-in-windows.html
+REFERER: http://192.168.1.49:80/dvwa/vulnerabilities/brute/
+
+### URL : http://hiderefer.com:80/?http://www.ss64.com/bash/
+REFERER: http://192.168.1.49:80/dvwa/vulnerabilities/exec/
+
+### URL : http://hiderefer.com:80/?http://www.ss64.com/nt/
+REFERER: http://192.168.1.49:80/dvwa/vulnerabilities/exec/
+
+### URL : http://hiderefer.com:80/?http://www.tmacuk.co.uk/
+REFERER: http://192.168.1.49:80/dvwa/about.php
+
+### URL : http://hiderefer.com:80/?http://www.youreadmyblog.info/
+REFERER: http://192.168.1.49:80/dvwa/about.php
+
+### URL : http://hiderefer.com:80/?http://www.youtube.com/watch?v=GzIj07jt8rM
+REFERER: http://192.168.1.49:80/dvwa/instructions.php
+
+### URL : http://httpd.apache.org:80/
+
+### URL : http://httpd.apache.org:80/docs-project/
+REFERER: http://192.168.1.49:80/icons/
+
+### URL : http://irongeek.com:80/
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://localhost:80/
+
+### URL : http://localhost:80/mutillidae/
+
+### URL : http://localhost:80/mutillidae/index.php
+
+### URL : http://localhost:80/mutillidae/index.php?page=add-to-your-blog.php
+REFERER: http://192.168.1.49:80/mutillidae/?page=view-someones-blog.php
+
+### URL : http://php.net:80/
+
+### URL : http://php.net:80/mcrypt
+REFERER: http://192.168.1.49:80/phpMyAdmin/
+
+### URL : http://samurai.inguardians.com:80/
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.backtrack-linux.org:80/
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.eclipse.org:80/
+
+### URL : http://www.eclipse.org:80/pdt/
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.hackersforcharity.org:80/
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.hackersforcharity.org:80/ghdb/
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.irongeek.com:80/
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.irongeek.com:80/i.php
+
+### URL : http://www.irongeek.com:80/i.php?page=contact
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=notes.php
+
+### URL : http://www.irongeek.com:80/i.php?page=security/deliberately-insecure-web-applications-for-learning-web-app-security
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=notes.php
+
+### URL : http://www.irongeek.com:80/i.php?page=security/mutillidae-deliberately-vulnerable-php-owasp-top-10
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.madirish.net:80/
+
+### URL : http://www.madirish.net:80/?article=229
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=home.php
+
+### URL : http://www.owasp.org:80/
+
+### URL : http://www.owasp.org:80/index.php/
+
+### URL : http://www.owasp.org:80/index.php/Top_10_2007-A3
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.owasp.org:80/index.php/Top_10_2007-A6
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.owasp.org:80/index.php/Top_10_2010-A1
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.owasp.org:80/index.php/Top_10_2010-A10
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.owasp.org:80/index.php/Top_10_2010-A2
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.owasp.org:80/index.php/Top_10_2010-A3
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.owasp.org:80/index.php/Top_10_2010-A4
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.owasp.org:80/index.php/Top_10_2010-A5
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.owasp.org:80/index.php/Top_10_2010-A6
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.owasp.org:80/index.php/Top_10_2010-A7
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.owasp.org:80/index.php/Top_10_2010-A8
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.owasp.org:80/index.php/Top_10_2010-A9
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.php.net:80/
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.phpmyadmin.net:80/
+REFERER: http://192.168.1.49:80/phpMyAdmin/
+
+### URL : http://www.quest.com:80/
+
+### URL : http://www.quest.com:80/toad-for-mysql/
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : http://www.textfiles.com:80/
+REFERER: http://192.168.1.49:80/mutillidae/?page=text-file-viewer.php
+
+### URL : http://www.youtube.com:80/
+
+### URL : http://www.youtube.com:80/user/
+
+### URL : http://www.youtube.com:80/user/webpwnized
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : https://addons.mozilla.org:443/
+
+### URL : https://addons.mozilla.org:443/en-US/
+
+### URL : https://addons.mozilla.org:443/en-US/firefox/
+
+### URL : https://addons.mozilla.org:443/en-US/firefox/addon/
+
+### URL : https://addons.mozilla.org:443/en-US/firefox/addon/4510
+REFERER: http://192.168.1.49:80/mutillidae/index.php?page=login.php
+
+### URL : https://addons.mozilla.org:443/en-US/firefox/collections/
+
+### URL : https://addons.mozilla.org:443/en-US/firefox/collections/jdruin/
+
+### URL : https://addons.mozilla.org:443/en-US/firefox/collections/jdruin/pro-web-developer-qa-pack/
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : https://twitter.com:443/
+
+### URL : https://twitter.com:443/webpwnized
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : https://www.owasp.org:443/
+REFERER: http://192.168.1.49:80/mutillidae/
+
+### URL : https://www.owasp.org:443/index.php/
+
+### URL : https://www.owasp.org:443/index.php/Top_Ten
+REFERER: http://192.168.1.49:80/mutillidae/
+

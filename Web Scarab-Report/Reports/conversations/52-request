@@ -1,0 +1,10 @@
+GET http://192.168.1.49:80/phpMyAdmin/print.css HTTP/1.1
+Host: 192.168.1.49
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.49/phpMyAdmin/index.php?token=492797f27e299bd979ca916d41839dd6
+Cookie: phpMyAdmin=3d09e88dceab98c8133a53b036c806386c8f998d; pma_lang=en-utf-8; pma_charset=utf-8; pmaUser-1=EL9enK4d8k4%3D; pma_theme=original; PHPSESSID=6b8a88398c287c2c841667d4f5bdc826
+

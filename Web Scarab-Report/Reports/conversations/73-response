@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Date: Thu, 02 May 2024 20:05:30 GMT
+Server: Apache/2.2.8 (Ubuntu) DAV/2
+Content-Length: 1884
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: text/html;charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /mutillidae/documentation</title>
+ </head>
+ <body>
+<h1>Index of /mutillidae/documentation</h1>
+<table><tr><th><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr><tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[DIR]"></td><td><a href="/mutillidae/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Mutillidae-Test-Scripts.txt">Mutillidae-Test-Scripts.txt</a></td><td align="right">11-May-2012 22:07  </td><td align="right"> 55K</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="how-to-access-Mutillidae-over-Virtual-Box-network.php">how-to-access-Mutillidae-over-Virtual-Box-network.php</a></td><td align="right">04-Jul-2011 19:49  </td><td align="right">2.0K</td></tr>
+<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="mutillidae-installation-on-xampp-win7.pdf">mutillidae-installation-on-xampp-win7.pdf</a></td><td align="right">10-Nov-2011 19:39  </td><td align="right">1.5M</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="sqlmap-help.txt">sqlmap-help.txt</a></td><td align="right">13-Oct-2011 20:54  </td><td align="right">9.4K</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="vulnerabilities.php">vulnerabilities.php</a></td><td align="right">08-Mar-2012 21:31  </td><td align="right">9.5K</td></tr>
+<tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.2.8 (Ubuntu) DAV/2 Server at 192.168.1.49 Port 80</address>
+</body></html>

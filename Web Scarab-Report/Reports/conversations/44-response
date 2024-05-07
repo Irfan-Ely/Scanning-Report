@@ -1,0 +1,18 @@
+HTTP/1.1 302 Found
+Date: Thu, 02 May 2024 20:04:16 GMT
+Server: Apache/2.2.8 (Ubuntu) DAV/2
+X-Powered-By: PHP/5.2.4-2ubuntu5.10
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: private, max-age=10800, pre-check=10800
+Set-Cookie: pma_fontsize=deleted; expires=Wed, 03-May-2023 20:04:15 GMT; path=/phpMyAdmin/
+Set-Cookie: pma_collation_connection=deleted; expires=Wed, 03-May-2023 20:04:15 GMT; path=/phpMyAdmin/; httponly
+Set-Cookie: pma_theme=deleted; expires=Wed, 03-May-2023 20:04:15 GMT; path=/phpMyAdmin/
+Set-Cookie: pmaUser-1=EL9enK4d8k4%3D; expires=Sat, 01-Jun-2024 20:04:16 GMT; path=/phpMyAdmin/; httponly
+Set-Cookie: pmaPass-1=Pf3ELtt%2Fofo%3D; expires=Sat, 01-Jun-2024 20:04:16 GMT; path=/phpMyAdmin/; httponly
+Last-Modified: Tue, 09 Dec 2008 17:24:00 GMT
+Location: http://192.168.1.49/phpMyAdmin/index.php?token=492797f27e299bd979ca916d41839dd6
+Content-Length: 0
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+

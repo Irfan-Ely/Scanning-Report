@@ -1,0 +1,13 @@
+<script type="text/javascript">
+	if(l_failedLogInFlag=="1"){
+		document.getElementById("id-bad-cred-tr").style.display="";
+	}// end if l_failedLogInFlag
+
+	if (!l_loggedIn){
+		document.getElementById("id-log-in-form-div").style.display="";
+		document.getElementById("id-log-out-div").style.display="none";
+	}else{
+		document.getElementById("id-log-in-form-div").style.display="none";
+		document.getElementById("id-log-out-div").style.display="";		
+	}// end if l_loggedIn	
+</script>

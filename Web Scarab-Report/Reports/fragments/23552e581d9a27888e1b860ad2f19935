@@ -1,0 +1,10 @@
+<script type="text/javascript">
+<!--
+	try{
+		document.getElementById("idDOMStorageKeyInput").focus();
+		init();
+	}catch(/*Exception*/ e){
+		alert("Error trying to set focus: " + e.message);
+	}// end try
+//-->
+</script>

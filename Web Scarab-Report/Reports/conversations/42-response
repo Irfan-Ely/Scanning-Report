@@ -1,0 +1,81 @@
+HTTP/1.1 200 OK
+Date: Thu, 02 May 2024 20:04:06 GMT
+Server: Apache/2.2.8 (Ubuntu) DAV/2
+X-Powered-By: PHP/5.2.4-2ubuntu5.10
+Pragma: no-cache
+Cache-Control: no-cache, must-revalidate
+Expires: Tue, 23 Jun 2009 12:00:00 GMT
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=utf-8
+
+530
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+		<title>Damn Vulnerable Web App (DVWA) - Login</title>
+
+		<link rel="stylesheet" type="text/css" href="dvwa/css/login.css" />
+
+	</head>
+
+	<body>
+
+	<div align="center">
+	
+	<br />
+
+	<p><img src="dvwa/images/login_logo.png" /></p>
+
+	<br />
+	
+	<form action="login.php" method="post">
+	
+	<fieldset>
+
+			<label for="user">Username</label> <input type="text" class="loginInput" size="20" name="username"><br />
+	
+			
+			<label for="pass">Password</label> <input type="password" class="loginInput" AUTOCOMPLETE="off" size="20" name="password"><br />
+			
+			
+			<p class="submit"><input type="submit" value="Login" name="Login"></p>
+
+	</fieldset>
+
+	</form>
+
+	
+	<br />
+
+	<div class="message">Login failed</div>
+
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />	
+
+	<!-- <img src="dvwa/images/RandomStorm.png" /> -->
+	
+	<p>Damn Vulnerable Web Application (DVWA) is a RandomStorm OpenSource project</p>
+<p>Hint: default username is 'admin' with password 'password'	</p>
+	</div> <!-- end align div -->
+
+	</body>
+
+</html>
+
+0
+

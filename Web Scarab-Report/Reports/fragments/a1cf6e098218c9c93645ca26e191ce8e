@@ -1,0 +1,9 @@
+<script type="text/javascript">
+<!--
+	try{
+		document.getElementById("idTargetHostInput").focus();
+	}catch(/*Exception*/ e){
+		alert("Error trying to set focus: " + e.message);
+	}// end try
+//-->
+</script>

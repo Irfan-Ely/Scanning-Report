@@ -1,0 +1,39 @@
+<script type="text/javascript">
+
+	var g_beSmart = false;
+	var g_usingIE = ('all' in document);
+
+	var outputValue = function(p_elementId, p_elementValue, p_beSmart, p_usingIE){
+		if(p_beSmart){
+			//safe
+			if(p_usingIE){
+				document.getElementById(p_elementId).innerText = p_elementValue;
+			}else{
+				document.getElementById(p_elementId).textContent = p_elementValue;
+			}// end if
+		}else{
+			// unsafe and low-skill - should be using DOM interface
+			document.getElementById(p_elementId).innerHTML = p_elementValue;
+		}//end if
+	}// end function
+
+	outputValue("id_browser_td", navigator.appName, g_beSmart, g_usingIE);
+	outputValue("id_browser_codename_td", navigator.appCodeName, g_beSmart, g_usingIE);
+	outputValue("id_browser_version_td", navigator.appVersion, g_beSmart, g_usingIE);
+	outputValue("id_cookie_enabled_td", navigator.cookieEnabled, g_beSmart, g_usingIE);
+	outputValue("id_platform_td", navigator.platform, g_beSmart, g_usingIE);
+	outputValue("id_user_agent_td", navigator.userAgent, g_beSmart, g_usingIE);
+	outputValue("id_cpu_class_td", navigator.cpuClass, g_beSmart, g_usingIE);
+	outputValue("id_java_enabled_td", navigator.javaEnabled, g_beSmart, g_usingIE);
+	outputValue("id_system_language_enabled_td", navigator.systemLanguage, g_beSmart, g_usingIE);
+	outputValue("id_resolution_enabled_td", screen.width+"x"+screen.height, g_beSmart, g_usingIE);
+	outputValue("id_color_depth_enabled_td", screen.colorDepth, g_beSmart, g_usingIE);
+	outputValue("id_referrer_td", document.referrer, g_beSmart, g_usingIE);
+
+	if (navigator.appName=="Netscape"){
+		for (i in navigator.plugins){
+			l_plugins =+ navigator.plugins[i].name.toString() + ';';
+		}// end for
+		outputValue("id_plug_ins_td", l_plugins, g_beSmart, g_usingIE);
+	}// end if
+</script>

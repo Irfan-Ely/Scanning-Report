@@ -1,0 +1,6 @@
+GET http://192.168.1.49:80/mutillidae/index.php?page=framing.php HTTP/1.0
+Referer: http://192.168.1.49:80/mutillidae/
+Host: 192.168.1.49:80
+Connection: Keep-Alive
+Cookie: PHPSESSID=6b8a88398c287c2c841667d4f5bdc826; showhints=1
+

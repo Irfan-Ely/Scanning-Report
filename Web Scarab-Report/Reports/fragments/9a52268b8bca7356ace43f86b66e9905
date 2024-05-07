@@ -1,0 +1,84 @@
+<script type="text/javascript">
+	
+	var gUseJavaScriptValidation = "TRUE";
+var gDisplayError = "FALSE";
+try{
+				var gPenTestToolsJSON = (  );
+			}catch(e){
+				alert("Error trying to evaluate JSON: " + e.message);
+			};
+
+	
+	var addRow = function(pRowOfData){
+		try{
+			var lDocRoot = window.document;
+			var lTBody = lDocRoot.getElementById("idDisplayTableBody");
+			var lTR = lDocRoot.createElement("tr");
+
+			//tool_id, tool_name, phase_to_use, tool_type, comment
+
+			var lToolIDTD = lDocRoot.createElement("td");
+			var lToolNameTD = lDocRoot.createElement("td");
+			var lPhaseTD = lDocRoot.createElement("td");			
+			var lToolTypeTD = lDocRoot.createElement("td");
+			var lCommentTD = lDocRoot.createElement("td");
+
+			//lKeyTD.addAttribute("class", "label");
+			lToolIDTD.setAttribute("class","sub-body");
+			lToolNameTD.setAttribute("class","sub-body");
+			lToolNameTD.setAttribute("style","color:#770000");
+			lPhaseTD.setAttribute("class","sub-body");
+			lToolTypeTD.setAttribute("class","sub-body");
+			lCommentTD.setAttribute("class","sub-body");
+			lCommentTD.setAttribute("style","font-weight: normal");
+			
+			lToolIDTD.appendChild(lDocRoot.createTextNode(pRowOfData.tool_id));
+			lToolNameTD.appendChild(lDocRoot.createTextNode(pRowOfData.tool_name));
+			lPhaseTD.appendChild(lDocRoot.createTextNode(pRowOfData.phase_to_use));
+			lToolTypeTD.appendChild(lDocRoot.createTextNode(pRowOfData.tool_type));
+			lCommentTD.appendChild(lDocRoot.createTextNode(pRowOfData.comment));
+			
+			lTR.appendChild(lToolIDTD);
+			lTR.appendChild(lToolNameTD);
+			lTR.appendChild(lPhaseTD);
+			lTR.appendChild(lToolTypeTD);
+			lTR.appendChild(lCommentTD);
+			
+			lTBody.appendChild(lTR);
+		}catch(/*Exception*/ e){
+			alert("Error trying to add row in function addRow(): " + e.name + "-" + e.message);
+		}// end try
+	};//end JavaScript function addRow
+
+	var initializePage = function(){
+		try{
+			document.getElementById("idToolSelect").focus();
+		}catch(/*Exception*/ e){
+			alert("Error trying to initialize page: " + e.message);
+		}// end try
+	};// end function
+	
+	var displayError = function(){
+		try{
+			if(gDisplayError == "TRUE"){
+				document.getElementById("id-invalid-input-tr").style.display="";
+			}// end if		
+		}catch(/*Exception*/ e){
+			alert("Error trying to display error: " + e.message);
+		}// end try
+	};// end function
+	
+	var displayPenTestTools = function(){
+		try{
+			var laTools = gPenTestToolsJSON.query.penTestTools;
+			if(laTools && laTools.length > 0){
+				document.getElementById("idDisplayTable").style.display="";
+				for (var i=0; i<laTools.length; i++){
+					addRow(laTools[i]);
+				}//end for i
+			}// end if
+		}catch(/*Exception*/ e){
+			alert("Error trying to parse JSON: " + e.message);
+		}// end try
+	};// end function
+</script>

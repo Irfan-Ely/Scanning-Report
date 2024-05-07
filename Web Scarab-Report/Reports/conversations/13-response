@@ -1,0 +1,50 @@
+HTTP/1.1 200 OK
+Date: Thu, 02 May 2024 20:03:01 GMT
+Server: Apache/2.2.8 (Ubuntu) DAV/2
+Last-Modified: Mon, 06 Sep 2010 16:01:54 GMT
+ETag: "16bd0-260-48f99662f8080"
+Accept-Ranges: bytes
+Content-Length: 608
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: text/css
+
+body {
+	background: #fefffe;
+	font: 12px/15px Arial, Helvetica, sans-serif;
+	line-height:20px;
+	color:#6b6b6b;
+}
+
+label {
+	float: left;
+	text-align: right;
+	margin-right: 0.5em;
+	display: block;
+	overflow: hidden;
+	padding-right: 50px;
+	font-weight: bold;
+}
+
+.loginInput{
+	float: left;
+	color: #6B6B6B;
+	width: 320px;
+	background-color: #F4F4F4;
+	border: 1px;
+	border-style: solid;
+	border-color: #c4c4c4;
+	padding: 6px;
+	margin-bottom: 12px;
+}
+
+fieldset {
+	width: 350px;
+	padding: 10px 20px 10px 20px;
+	overflow: hidden;
+	border-style:none;
+}
+
+p {
+	font-size: 10px;
+}

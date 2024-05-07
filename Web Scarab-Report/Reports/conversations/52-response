@@ -1,0 +1,80 @@
+HTTP/1.1 200 OK
+Date: Thu, 02 May 2024 20:04:54 GMT
+Server: Apache/2.2.8 (Ubuntu) DAV/2
+Last-Modified: Tue, 09 Dec 2008 17:24:00 GMT
+ETag: "16a6e-427-45da068b9cc00"
+Accept-Ranges: bytes
+Content-Length: 1063
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: text/css
+
+.print_ignore {
+    display: none;
+}
+
+body, table, th, td {
+    color:             #000000;
+    background-color:  #ffffff;
+    font-size:         8pt;
+}
+
+img {
+    border: 0;
+}
+
+table, th, td {
+    border-width:      0.1em;
+    border-color:      #000000;
+    border-style:      solid;
+}
+
+table {
+    border-collapse:   collapse;
+    border-spacing:    0;
+}
+
+th, td {
+    padding:           0.2em;
+}
+
+th {
+    font-weight:       bold;
+    background-color:  #e5e5e5;
+}
+
+@media print {
+    .print_ignore {
+        display: none;
+    }
+
+    body, table, th, td {
+        color:             #000000;
+        background-color:  #ffffff;
+        font-size:         8pt;
+    }
+
+    img {
+        border: 0;
+    }
+
+    table, th, td {
+        border-width:      1px;
+        border-color:      #000000;
+        border-style:      solid;
+    }
+
+    table {
+        border-collapse:   collapse;
+        border-spacing:    0;
+    }
+
+    th, td {
+        padding:           0.2em;
+    }
+
+    th {
+        font-weight:       bold;
+        background-color:  #e5e5e5;
+    }
+}

@@ -1,0 +1,44 @@
+### Cookie : 192.168.1.49/ PHPSESSID
+1714680163096 PHPSESSID=3584cdb95dd02d9d30e0e82417ee0f96; Domain=192.168.1.49; Path=/
+1714680164099 PHPSESSID=6b8a88398c287c2c841667d4f5bdc826; Domain=192.168.1.49; Path=/
+
+### Cookie : 192.168.1.49/dvwa security
+1714680163096 security=high; Domain=192.168.1.49; Path=/dvwa
+
+### Cookie : 192.168.1.49/mutillidae showhints
+1714680348268 showhints=1; Domain=192.168.1.49; Path=/mutillidae
+1714680347267 showhints=1; Domain=192.168.1.49; Path=/mutillidae
+
+### Cookie : 192.168.1.49/phpMyAdmin/ phpMyAdmin
+1714680161229 phpMyAdmin=3d09e88dceab98c8133a53b036c806386c8f998d; Domain=192.168.1.49; Path=/phpMyAdmin/; httponly
+
+### Cookie : 192.168.1.49/phpMyAdmin/ pmaPass-1
+1714680248461 pmaPass-1=Pf3ELtt%2Fofo%3D; Domain=192.168.1.49; Path=/phpMyAdmin/; httponly
+1714680254251 pmaPass-1=deleted; Domain=192.168.1.49; Path=/phpMyAdmin/
+
+### Cookie : 192.168.1.49/phpMyAdmin/ pmaUser-1
+1714680248461 pmaUser-1=EL9enK4d8k4%3D; Domain=192.168.1.49; Path=/phpMyAdmin/; httponly
+
+### Cookie : 192.168.1.49/phpMyAdmin/ pma_charset
+1714680161230 pma_charset=utf-8; Domain=192.168.1.49; Path=/phpMyAdmin/; httponly
+
+### Cookie : 192.168.1.49/phpMyAdmin/ pma_collation_connection
+1714680161230 pma_collation_connection=deleted; Domain=192.168.1.49; Path=/phpMyAdmin/; httponly
+1714680248461 pma_collation_connection=deleted; Domain=192.168.1.49; Path=/phpMyAdmin/; httponly
+1714680254251 pma_collation_connection=deleted; Domain=192.168.1.49; Path=/phpMyAdmin/; httponly
+
+### Cookie : 192.168.1.49/phpMyAdmin/ pma_fontsize
+1714680167406 pma_fontsize=82%25; Domain=192.168.1.49; Path=/phpMyAdmin/; httponly
+1714680246177 pma_fontsize=deleted; Domain=192.168.1.49; Path=/phpMyAdmin/
+1714680249089 pma_fontsize=82%25; Domain=192.168.1.49; Path=/phpMyAdmin/; httponly
+1714680254251 pma_fontsize=82%25; Domain=192.168.1.49; Path=/phpMyAdmin/; httponly
+1714680267819 pma_fontsize=deleted; Domain=192.168.1.49; Path=/phpMyAdmin/
+
+### Cookie : 192.168.1.49/phpMyAdmin/ pma_lang
+1714680161230 pma_lang=en-utf-8; Domain=192.168.1.49; Path=/phpMyAdmin/; httponly
+
+### Cookie : 192.168.1.49/phpMyAdmin/ pma_theme
+1714680161230 pma_theme=original; Domain=192.168.1.49; Path=/phpMyAdmin/; httponly
+1714680248461 pma_theme=deleted; Domain=192.168.1.49; Path=/phpMyAdmin/
+1714680254251 pma_theme=original; Domain=192.168.1.49; Path=/phpMyAdmin/; httponly
+

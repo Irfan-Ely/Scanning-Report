@@ -1,0 +1,20 @@
+<script>
+	function onSubmitOfGeneratorForm(/*HTMLFormElement*/ theForm){
+		try{
+
+		    var lPasswordText = "";
+		    var lPasswordCharset = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_-+=[]{}\|;',./:?";
+
+		    for( var i=0; i < 15; i++ ){
+		    	lPasswordText += lPasswordCharset.charAt(Math.floor(Math.random() * lPasswordCharset.length));
+		    }// end for i
+			
+			document.getElementById("idPasswordInput").innerHTML = "Password: <span style=\"color:red;border-width:1px;border-color:black;\">" + lPasswordText + "</span>";
+			document.getElementById("idPasswordTableRow").style.display = "";
+			return false;
+
+		}catch(e){
+			alert("Error: " + e.message);
+		}// end catch
+	}// end function onSubmitOfGeneratorForm(/*HTMLFormElement*/ theForm)
+</script>
